@@ -1,0 +1,45 @@
+c:\users\jeanna\documents\visual studio 2010\Projects\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jeanna\documents\visual studio 2010\Projects\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod_Monte_Carlo.Form1.resources
+c:\users\jeanna\documents\visual studio 2010\Projects\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod_Monte_Carlo.Properties.Resources.resources
+c:\users\jeanna\documents\visual studio 2010\Projects\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jeanna\documents\visual studio 2010\Projects\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jeanna\documents\visual studio 2010\Projects\metod Monte-Carlo\metod Monte-Carlo\bin\Debug\metod Monte-Carlo.exe
+c:\users\jeanna\documents\visual studio 2010\Projects\metod Monte-Carlo\metod Monte-Carlo\bin\Debug\metod Monte-Carlo.pdb
+c:\users\jeanna\documents\visual studio 2010\Projects\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.exe
+c:\users\jeanna\documents\visual studio 2010\Projects\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.pdb
+C:\Users\Admin\Desktop\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.exe
+C:\Users\Admin\Desktop\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.pdb
+C:\Users\Admin\Desktop\универ\4 курс 2 семестр\Компьютерное моделирование\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.exe
+C:\Users\Admin\Desktop\универ\4 курс 2 семестр\Компьютерное моделирование\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.pdb
+C:\Users\Admin\Desktop\универ\4 курс 2 семестр\Компьютерное моделирование\metod Monte-Carlo\metod Monte-Carlo\bin\Debug\metod Monte-Carlo.exe
+C:\Users\Admin\Desktop\универ\4 курс 2 семестр\Компьютерное моделирование\metod Monte-Carlo\metod Monte-Carlo\bin\Debug\metod Monte-Carlo.pdb
+C:\Users\Admin\Desktop\универ\4 курс 2 семестр\Компьютерное моделирование\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\универ\4 курс 2 семестр\Компьютерное моделирование\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod_Monte_Carlo.Form1.resources
+C:\Users\Admin\Desktop\универ\4 курс 2 семестр\Компьютерное моделирование\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod_Monte_Carlo.Properties.Resources.resources
+C:\Users\Admin\Desktop\универ\4 курс 2 семестр\Компьютерное моделирование\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\универ\4 курс 2 семестр\Компьютерное моделирование\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\КМ\Лабораторные работы\ЛР2\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.exe
+C:\Users\Admin\Desktop\КМ\Лабораторные работы\ЛР2\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.pdb
+C:\Users\Admin\Desktop\КМ\Лабораторные работы\ЛР2\metod Monte-Carlo\metod Monte-Carlo\bin\Debug\metod Monte-Carlo.exe
+C:\Users\Admin\Desktop\КМ\Лабораторные работы\ЛР2\metod Monte-Carlo\metod Monte-Carlo\bin\Debug\metod Monte-Carlo.pdb
+C:\Users\Admin\Desktop\КМ\Лабораторные работы\ЛР2\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\КМ\Лабораторные работы\ЛР2\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod_Monte_Carlo.Form1.resources
+C:\Users\Admin\Desktop\КМ\Лабораторные работы\ЛР2\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod_Monte_Carlo.Properties.Resources.resources
+C:\Users\Admin\Desktop\КМ\Лабораторные работы\ЛР2\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.csproj.GenerateResource.Cache
+C:\Users\Вика\Downloads\metod_Monte-Carlo\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.exe
+C:\Users\Вика\Downloads\metod_Monte-Carlo\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.pdb
+C:\Users\Вика\Downloads\metod_Monte-Carlo\metod Monte-Carlo\metod Monte-Carlo\bin\Debug\metod Monte-Carlo.exe
+C:\Users\Вика\Downloads\metod_Monte-Carlo\metod Monte-Carlo\metod Monte-Carlo\bin\Debug\metod Monte-Carlo.pdb
+C:\Users\Вика\Downloads\metod_Monte-Carlo\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Вика\Downloads\metod_Monte-Carlo\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod_Monte_Carlo.Form1.resources
+C:\Users\Вика\Downloads\metod_Monte-Carlo\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod_Monte_Carlo.Properties.Resources.resources
+C:\Users\Вика\Downloads\metod_Monte-Carlo\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Вика\Downloads\metod_Monte-Carlo\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2012\Projects\monte\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\monte\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\monte\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\monte\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod_Monte_Carlo.Form1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\monte\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod_Monte_Carlo.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\monte\metod Monte-Carlo\metod Monte-Carlo\obj\x86\Debug\metod Monte-Carlo.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\monte\metod Monte-Carlo\metod Monte-Carlo\bin\Debug\metod Monte-Carlo.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\monte\metod Monte-Carlo\metod Monte-Carlo\bin\Debug\metod Monte-Carlo.pdb

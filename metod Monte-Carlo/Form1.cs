@@ -18,7 +18,7 @@ namespace metod_Monte_Carlo
         double E;
         Random rand = new Random();
         double a =0;
-        double b = Math.PI;
+        double b = Math.PI/2;
         //решение интеграла
         double I = 1.7653;
 
